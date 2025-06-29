@@ -1,4 +1,4 @@
-I'll create a frontend web application that implements your spam detection model. This will be an interactive email classifier that users can test with their own email content.I've created a modern, interactive frontend for your spam detection model! Here's what the application includes:
+
 
 ## 🌟 Key Features:
 
